@@ -1,0 +1,36 @@
+p {
+    color: blue;
+}
+
+.index {
+    color: darkolivegreen;
+}
+
+#unique {
+    color: red;
+}
+
+.selector {
+    color: blueviolet;
+}
+
+section > ol {
+    color: aqua;
+}
+
+h3 + p {
+    color: brown;
+}
+
+.div {
+    color: chocolate;
+}
+
+#color {
+    color: gold;
+}
+
+img {
+    color: cornflowerblue;
+}
+
